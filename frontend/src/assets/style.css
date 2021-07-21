@@ -1,0 +1,30 @@
+body {
+    overflow-y: overlay;
+}
+.logo {
+    max-width: 250px;
+}
+
+.small-picture{
+    max-width: 200px;
+    max-height: 50px;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.pagination-text {
+    display: inline;
+    font-size: 20px;
+    margin: 5px;
+    vertical-align: middle;
+}

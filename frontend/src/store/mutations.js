@@ -1,0 +1,9 @@
+export default {
+  GOODS: 'GOODS',
+  CHOOSEN: 'CHOOSEN',
+  CURR_PAGE: 'CURR_PAGE',
+  MAX_PAGE: 'MAX_PAGE',
+  CITY: 'CITY',
+  ALL_CITIES: 'ALL_CITIES',
+  PRICES: 'PRICES'
+}
